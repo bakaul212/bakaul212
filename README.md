@@ -8,7 +8,7 @@ I am a passionate **Frontend Web Developer** dedicated to building responsive, u
 
 - 🔭 **Current Activity:** Exploring **Next.js** to build performance-optimized React applications.
 - 💻 **Project in Progress:** Working on a dynamic **Tourism Website** with advanced search and booking features.
-- 📫 **How to reach me:** [smith@scic13.com](mailto:smith@scic13.com) bakaul15-4163@diu.edu.bd | 01793097400
+- 📫 **How to reach me:** bakaul15-4163@diu.edu.bd  | 01793097400
 
 ---
 
